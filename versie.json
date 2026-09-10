@@ -1,7 +1,7 @@
 {
-    "versie":  "3.1",
-    "datum":  "2026-08-19",
-    "zip":  "https://github.com/RhonatheUnwilling/BeeSplit-releases/releases/download/v3.1/BeeSplit-v3.1.zip",
-    "sha256":  "3396b094743ffe90525b8a628b1694416c6be7b0de023cb3092a1ea7dd153cf4",
-    "wat":  "Bijwerken zit nu in het programma zelf: Instellingen, Kijken of er een nieuwe versie is."
+  "versie": "3.2",
+  "datum": "2026-09-10",
+  "zip": "https://github.com/RhonatheUnwilling/BeeSplit-releases/releases/download/v3.2/BeeSplit-v3.2.zip",
+  "sha256": "707ff4419ac2debbc24429a0e4f23de84d449a50f1ab1a145cc6e4dd6a729cb2",
+  "wat": "Bladen uit een AutoCAD-export worden onderweg gerepareerd. Die export laat soms een lettertype achter met een verzonnen tekenverzameling, waardoor strengere lezers zoals Fieldwire de tekening weigeren zodra je hem opent. BeeSplit zet dat nu vanzelf recht bij het wegschrijven; de tekening zelf verandert niet."
 }
